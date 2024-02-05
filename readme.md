@@ -1,3 +1,11 @@
+# Titan Fork
+
+The official version of this package is pure ESM, which our build system does not support. See https://github.com/sindresorhus/p-map/issues/44#issuecomment-892663638.
+
+Here we just fork it and to use commonjs.
+
+Ideally we'd convert to ESM, but that's not realistic for us right now, and there are some rough edges we're hoping get sanded off before we do so. 
+
 # p-filter
 
 > Filter promises concurrently

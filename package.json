@@ -41,7 +41,7 @@
 		"parallel"
 	],
 	"dependencies": {
-		"p-map": "^7.0.1"
+		"p-map": "git+https://github.com/TitanInvest/p-map.git"
 	},
 	"devDependencies": {
 		"ava": "^6.0.1",
